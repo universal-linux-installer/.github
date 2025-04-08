@@ -1,12 +1,6 @@
-## Hi there 👋
+## Universal Linux Installer
+> **Project in development**
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ULI (Universal Linux Installer) is a software inspired on msi, and .exe installers from Microsoft Windows.
+The idea behind is to offer a friendly use to new Linux users to install .deb, .rpm. .AppImage, .flatpak applications.
+Experienced users can feel more "productive" in the sense of just double-clicking and install.
